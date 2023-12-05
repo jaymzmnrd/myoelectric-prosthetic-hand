@@ -4,9 +4,13 @@ One of the project targets was to create an affordable prosthetic hand for amput
 
 ## Schematic Diagram
 
-Schematic diagram of the device
+**Schematic diagram of the device**
 
-Wiring diagram of power supply
+![overall-schematic](https://github.com/jaymzmnrd/myoelectric-prosthetic-hand/assets/138496409/ebf5cfe5-5f57-44eb-b472-f587b5ba194b)
+
+**Wiring diagram of power supply**
+
+![power-supply-diagram](https://github.com/jaymzmnrd/myoelectric-prosthetic-hand/assets/138496409/d8714a7b-00a3-4be5-b515-6e20e922f9d5)
 
 ## Software Specifications
 
