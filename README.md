@@ -33,7 +33,7 @@ https://github.com/jaymzmnrd/myoelectric-prosthetic-hand/assets/138496409/c09259
 
 **Final Prototype**
 
-![20230519_143754](https://github.com/jaymzmnrd/myoelectric-prosthetic-hand/assets/138496409/7b7f7855-24bd-4578-9927-490f087c51db)
+![Final Prototype](https://github.com/jaymzmnrd/myoelectric-prosthetic-hand/assets/138496409/1247a9a5-0b9e-4ddc-ad83-d7df15424be1)
 
 **Isometric View with Phantom Tangent Lines and Fingers Articulated**
 
