@@ -26,30 +26,30 @@ prostheses
 
 ## Demo
 
+https://github.com/jaymzmnrd/myoelectric-prosthetic-hand/assets/138496409/c092599a-3ad5-4420-96b6-6acefebec770
+
 
 ## Prototype Mechanical Design
 
-Final Prototype
+**Final Prototype**
 
-Isometric View with Phantom Tangent Lines and Fingers Articulated
+![20230519_143754](https://github.com/jaymzmnrd/myoelectric-prosthetic-hand/assets/138496409/7b7f7855-24bd-4578-9927-490f087c51db)
 
-Front and Back View
+**Isometric View with Phantom Tangent Lines and Fingers Articulated**
 
-Exploded View of the Device
+![Isometric view with phantom tangent lines and fingers articulated](https://github.com/jaymzmnrd/myoelectric-prosthetic-hand/assets/138496409/84c32282-3cde-4bc8-899f-6c96c899197e)
 
-Semi-Open View of the Power Supply Section
+**Front and Back View**
 
-## Fabrication of (3D Printing) the Prototype
+![Front and back view](https://github.com/jaymzmnrd/myoelectric-prosthetic-hand/assets/138496409/a756ab28-ecb3-4460-8c73-9b532040ecc7)
 
-3D printing calibration test
+**Exploded View of the Device**
 
-3D Printed Parts on the Printer Build Plate
+![Exploded view of the device](https://github.com/jaymzmnrd/myoelectric-prosthetic-hand/assets/138496409/94fed80d-481d-4ff3-96da-b90e93d338ab)
 
-Parts flat lay on cutting mat
+**Semi-Open View of the Power Supply Section**
 
-Post processed sleeve with velcro strap attached
-
-
+![Semi-open view of the power supply section](https://github.com/jaymzmnrd/myoelectric-prosthetic-hand/assets/138496409/359592a3-a284-4c18-9930-efee12722977)
 
 ## Source Code
 
@@ -87,4 +87,4 @@ Code for controlling the prosthetic hand's motors.
 - **jamescenina**
 - **astrostaana**
 - **rolansanchez**
-- **vincentponong**"# myoelectric-prosthetic-hand" 
+- **vincentponong**
